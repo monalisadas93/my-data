@@ -1,7 +1,7 @@
-def calculator(a,b,c):
-    print(“Addition:”,  a+b+c)
-    print(“Subtraction:”, a-b+c)
-    print(“Multiplication:”, a*b*c)
-    print(“Division:”, a/b)
+def calculator(p,q,r):
+    print(“Addition:”,  p+q+r)
+    print(“Subtraction:”, p-q-r)
+    print(“Multiplication:”, p*q*r)
+    print(“Division:”, p/q)
     return
 calculator(5,6,7)
